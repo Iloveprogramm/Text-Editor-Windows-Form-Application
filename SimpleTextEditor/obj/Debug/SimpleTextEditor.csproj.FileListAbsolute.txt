@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.LoginSC.resources
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.NewUserSC.resources
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.TextEditorSC.resources
+C:\Users\Admin\Desktop\Final\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.About.resources
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.AssemblyReference.cache
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.About.resources
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.LoginSC.resources
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.NewUserSC.resources
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.TextEditorSC.resources
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.cache
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+D:\Unit（UTS）\Bachelor\2022 Semeter 2\31927 Application Development with .NET\ASSIGNMENT-2 C# Windows Form Application\SimpleTextEditor\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
